@@ -2,7 +2,7 @@
 this is a test repo
 
 ## Features
-- [ ] Feature 1
+- [x] Feature 1
 - [ ] Feature 2
 - [ ] Feature 3
 
